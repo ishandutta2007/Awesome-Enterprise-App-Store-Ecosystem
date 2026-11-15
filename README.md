@@ -1,6 +1,6 @@
 # Awesome-Enterprise-App-Store-Ecosystem
 
-# Top Enterprise App Store & Ecosystem
+## Top Enterprise App Store & Ecosystem
 
 **Curated List of SaaS Marketplaces & Open-Source GitHub Projects**  
 *Focused on Vendor Marketplaces, Extension Catalogs & Self-Hosted App Distribution*  
