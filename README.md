@@ -63,9 +63,9 @@ The following table evaluates the leading commercial enterprise app stores and c
 
 ## 💻 Open-Source Platforms & App Distribution Engines
 
-Open-source app store engines, self-hosted distribution platforms, internal developer portals, and multi-vendor marketplace frameworks. Sorted in **descending order by GitHub star count**:
+Open-source app store engines, self-hosted distribution platforms, internal developer portals, and multi-vendor marketplace frameworks. Sorted in **descending order by GitHub Stars_Count**:
 
-| Project | Star Badge | Description |
+| Project | Stars_Badge | Description |
 |---|---|---|
 | **[CasaOS](https://github.com/IceWhaleTech/CasaOS)** | [![Stars](https://img.shields.io/github/stars/IceWhaleTech/CasaOS?style=social&color=white)](https://github.com/IceWhaleTech/CasaOS/stargazers) | **Simple, elegant personal cloud OS with built-in Docker App Store.** Features an intuitive web-based app store interface for one-click installation and management of self-hosted enterprise utilities, home server tools, and containerized services. |
 | **[Backstage](https://github.com/backstage/backstage)** | [![Stars](https://img.shields.io/github/stars/backstage/backstage?style=social&color=white)](https://github.com/backstage/backstage/stargazers) | **CNCF incubating open framework for building Internal Developer Portals (IDPs).** Originally engineered by Spotify, Backstage provides a centralized software catalog, template marketplace, and an extensible plugin ecosystem for enterprise developer operations. |
@@ -99,7 +99,7 @@ Contributions are welcome from platform engineers, SaaS architects, and open-sou
 1. 🍴 **Fork** this repository.
 2. 🌿 Create a descriptive branch (`git checkout -b feature/add-new-marketplace`).
 3. 📝 Add or update entries in [README.md](file:///C:/Users/ishan/Documents/Projects/Awesome-Enterprise-App-Store-Ecosystem/README.md) following the existing Markdown schema and citation guidelines.
-4. 🚀 Submit a Pull Request detailing the product's focus, licensing, star badge, and starting price tier.
+4. 🚀 Submit a Pull Request detailing the product's focus, licensing, Stars_Badge, and starting price tier.
 
 ---
 
